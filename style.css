@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
     margin: 0;
     padding: 0;
@@ -125,4 +126,133 @@ body {
   background-color:orange;
   color:black;
   border:none;
+=======
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: "Young Serif", serif;
+  
+}
+.container {
+ padding: 50px;
+}
+
+.section-one {
+    background-color:green;
+    color:black;
+    padding:2cqi;
+}
+
+.section-one__contact{
+  background-color:orange;
+  color:black;
+  text-decoration:none;
+  padding-right:10px;
+  padding-left:10px;
+  padding-top:5px;
+  padding-bottom:5px;
+  display:inline-block;
+}
+
+.section-one__name{
+  font-size:50px;
+
+}
+
+.section-one__role{
+  font-size:30px;
+  margin-top:10px;
+}
+.section-one__contact{
+  margin-top:10px;
+}
+.section-two, .section-three, .section-four, .section-five, .section-six, .section-seven{
+  margin-top:20px;
+}
+
+.section-two__description, .section-three__description, .section-four__description, .section-five__description, .section-six__description, .section-seven__description{
+  margin-top:20px;
+}
+.section-seven{
+  background-color:black;
+  color:white;
+  padding:20px;
+}
+.section-seven a{
+  color:skyblue;
+}
+.section-three li, .section-four li, .section-five li, .section-six li{
+  list-style:none;
+}
+
+.section-three{
+  background-color:orange;
+  color:black;
+  padding:20px;
+  border-radius:10px;
+  display:inline-block;
+  vertical-align:top;  
+  height:230px;
+}
+
+.section-four{
+  background-color:tomato;
+  color:black;
+  padding:20px;
+  border-radius:10px;
+  display:inline-block;
+  vertical-align:top;  
+  margin-left:20px;
+  height:230px;
+}
+.section-five{
+  background-color:mediumorchid;
+  color:black;
+  padding:20px;
+  border-radius:10px;
+  display :block;
+  vertical-align:top;
+  height:280px;
+}
+
+.section-six{
+  background-color:yellow;
+  color:black;
+  padding:20px;
+  border-radius:10px;
+  display :inline-block;
+  vertical-align:top;
+  margin-top:20px;
+}
+
+.contact-form{
+  margin-top:20px;
+}
+
+.contact-form__input, .contact-form__textarea, .contact-form__submit{
+  margin-top:10px;
+}
+
+.contact-form__input{
+  padding:20px;
+  border:none;
+  border-bottom:2px solid black; 
+
+}
+.contact-form__textarea{
+  padding:20px;
+  border-bottom:2px solid black; 
+
+}
+.contact-form__submit{
+  padding-top:10px;
+  padding-bottom:10px;
+  padding-left:20px;   
+  padding-right:20px;
+  background-color:orange;
+  color:black;
+  border:none;
+>>>>>>> 0af0dc1188401c4a2d68d2e203cba623b15bc81a
 }
