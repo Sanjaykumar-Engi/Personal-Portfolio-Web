@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 *{
     margin: 0;
     padding: 0;
@@ -126,7 +126,8 @@ body {
   background-color:orange;
   color:black;
   border:none;
-=======
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -254,5 +255,5 @@ body {
   background-color:orange;
   color:black;
   border:none;
->>>>>>> 0af0dc1188401c4a2d68d2e203cba623b15bc81a
+
 }
